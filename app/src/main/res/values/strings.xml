@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SocialNetworkLogin</string>
+    <string name="fb_app_id">987295964640119</string>
+    <string name="fname_hint">FIRST NAME</string>
+    <string name="lname_hint">LAST NAME</string>
+    <string name="email_hint">EMAIL</string>
+    <string name="gender_hint">GENDER</string>
+    <string name="phone_hint">PHONE NO</string>
+    <string name="address_hint">Address (Locality, city, state, pincode)</string>
+    <string name="next_page_text">MOVE TO NEXT PAGE</string>
+    <string name="image_chooser">CHOOSE IMAGE</string>
+    <string name="home_screen_message">WELCOME USER</string>
+    <string name="registration_form1">REGISTRATION FORM 1</string>
+    <string name="registration_form2">REGISTRATION FORM 2</string>
+    <string name="dont_have_account">DONT HAVE ACCOUTN IN ABOVE ?</string>
+</resources>
